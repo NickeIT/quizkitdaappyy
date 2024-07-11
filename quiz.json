@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of anime with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is the main character in Naruto?",
+      "answers": ["Naruto", "Sasuke", "Sakura"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is the name of Luffy's ship?",
+      "answers": ["Sunny", "Going", "Merry"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who is the Saiyan prince?",
+      "answers": ["Vegeta", "Goku", "Trunks"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is Death Note?",
+      "answers": ["Notebook", "Weapon", "Spell"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the alchemist in FMA?",
+      "answers": ["Edward", "Alphonse", "Roy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Sailor Moon?",
+      "answers": ["Usagi", "Rei", "Ami"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Attack on Titan?",
+      "answers": ["Anime", "Manga", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the main character in Bleach?",
+      "answers": ["Ichigo", "Uryu", "Renji"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Spirited Away?",
+      "answers": ["Movie", "Series", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the ninja in Naruto?",
+      "answers": ["Naruto", "Sasuke", "Kakashi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Studio Ghibli?",
+      "answers": ["Studio", "Anime", "Manga"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the main character in One Piece?",
+      "answers": ["Luffy", "Zoro", "Sanji"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is My Hero Academia?",
+      "answers": ["Anime", "Game", "Book"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the wizard in Fairy Tail?",
+      "answers": ["Natsu", "Gray", "Erza"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Neon Genesis Evangelion?",
+      "answers": ["Anime", "Game", "Novel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the spirit detective?",
+      "answers": ["Yusuke", "Hiei", "Kurama"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Cowboy Bebop?",
+      "answers": ["Anime", "Manga", "Game"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the vampire in Hellsing?",
+      "answers": ["Alucard", "Walter", "Seras"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Sword Art Online?",
+      "answers": ["Anime", "Game", "Book"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the main character in Dragon Ball?",
+      "answers": ["Goku", "Gohan", "Piccolo"],
       "correctAnswerIndex": 0
     }
   ]
